@@ -1,12 +1,13 @@
 //***I tried making a fading carousel but it didn't work out as expected. I'm keeping the code because i intend trying again ***//
 
-/*const menuBtn = document.querySelector(".menu-btn");
+const menuBtn = document.querySelector(".menu-btn");
 const navlinks = document.querySelector(".nav-links");
 
 menuBtn.addEventListener("click", () => {
   navlinks.classList.toggle("mobile-menu");
 });
 
+/* 
 const images = [
   "winter1.jpeg",
   "Winter2.jpeg",
