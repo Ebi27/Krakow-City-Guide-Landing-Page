@@ -30,10 +30,12 @@ Users should be able to:
 - Live Site URL: [http://127.0.0.1:5500/index.html]
 
 ## My process
+
       I started by creating the HTML structure. This began with the design of the navbar and then the sections. Then there was the footer, which had links to the original Krakow city guide page as well as an Instagram account. I also included links to my LinkedIn and Twitter accounts. The page's center content included information and images.
       Once the initial page was layed out then the css came in. Designing the initial page was first with the use of a chosen color pallet and the use of animations and effects.
 
     At the moment, i still intend adding more sections to the page. Some unresolved issues includes having the winter write up come first in the mobile mode. 
+    
 ### Built with
 
 - Semantic HTML5 markup
