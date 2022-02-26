@@ -6,6 +6,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+li a {
+  color: whitesmoke;
+}
 a {
   text-decoration: none;
 }
@@ -245,7 +249,6 @@ figure {
     justify-content: center;
     align-items: center;
   }
-}
 
 /* Mobile Device */
 @media only screen and (max-width: 850px) {
